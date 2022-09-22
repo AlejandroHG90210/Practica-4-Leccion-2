@@ -292,13 +292,13 @@ Un ejemplo:</p>
 <p> Es una reformulación del lenguaje HTML que ahora pasa a ser compatible con el estándar XML, considerándose que se incluye en la familia de los Lenguajes de Marcado y este se utiliza para generar documentos y contenidos de hipertexto generalmente publicados en la Web.</p>
 </ol>
  <br>
-        <br>
-        <h4> Conclusiones </h4>
-        <br>
+ <br>
+<h4> Conclusiones </h4>
+<br>
         <b><p>Diego Alberto Oliva Gonzalez </p></b>
         <p>Para esta practica aprendimos la estructura del html,a como insertar imagenes y los estilos que un html puede manejar, esto nos sirve mucho de conocimiento ya que podemos aplicarlos para futuros proyectos qje tengamos y podamos hacer todo con una mayor facilidad con los conocimientos que adquirimos anteriormente con esta lectura</p>
         <b><p>Edrik Alejandro Hernandez Garcia </p></b>
-        <p>En esta práctica pudimos ver algunos aspectos intermedios de las practicas anteriores de las lecciones de MSDN lo cual aquí pudimos ver algunos conceptos básicos los cuales son de gran ayuda debido que aquí te los explican de manera detallada lo cual te hace verlo de una manera más simple o sencilla para que tengas un conocimiento más claro de estos conceptos de los temas que son HTML, XHTML y CSS lo cual estos lenguajes tienen una similitud entre si al momento de utilizarlos en un documento para una página web, ya que unos son solamente adaptaciones para uno y otro lo cual todo este tema tiene una relación en cuanto a los lenguajes vistos.</p>	
+        <p>En esta práctica pudimos ver algunos aspectos intermedios de las practicas anteriores de las lecciones de MSDN lo cual aquí pudimos ver algunos conceptos básicos los cuales son de gran ayuda debido que aquí te los explican de manera detallada lo cual te hace verlo de una manera más simple o sencilla para que tengas un conocimiento más claro de estos conceptos de los temas que son HTML, XHTML y CSS lo cual estos lenguajes tienen una similitud entre si al momento de utilizarlos en un documento para una página web, ya que unos son solamente adaptaciones para uno y otro lo cual todo este tema tiene una relación en cuanto a los lenguajes vistos.</p>
         <b><p>Carlos Alberto Salazar Beltran </p></b>
         <p>Como conlucion sobre estos conceptos basicos de HTML, XHTML Y CSS son importente ya estos codigos sirben para loselemento muy importante del lenguaje HTML son los atributos de cada etiqueta, que representan opciones que modifican su comportamiento por defecto. Los atributos se incluyen junto con la etiqueta correspondiente, dentro de los símbolos &lt;&gt;. Las etiquetas de final nunca incluyen atributos. </p>
         <b><p>Jesus Ruben Balleza Rojas </p></b>
@@ -344,4 +344,4 @@ Un ejemplo:</p>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
    </body>
-</html>
+   </html>
