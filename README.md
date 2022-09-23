@@ -52,8 +52,6 @@
 <li><b> Elemento ORDERED LIST: </b>abre una lista de elementos en forma de líneas numeradas por orden.</li>
 <li><b>Elemento LIST: </b>cada línea con esta etiqueta recibe automáticamente un número ordinal empezando por el 1.</li>
 </ul>
-CONCLUSION
-<p>En esta práctica pudimos ver algunos aspectos intermedios de las practicas anteriores de las lecciones de MSDN lo cual aquí pudimos ver algunos conceptos básicos los cuales son de gran ayuda debido que aquí te los explican de manera detallada lo cual te hace verlo de una manera más simple o sencilla para que tengas un conocimiento más claro de estos conceptos de los temas que son HTML, XHTML y CSS lo cual estos lenguajes tienen una similitud entre si al momento de utilizarlos en un documento para una página web, ya que unos son solamente adaptaciones para uno y otro lo cual todo este tema tiene una relación en cuanto a los lenguajes vistos.</p>
 <p><b> Detalles de la sintaxis de XHTML</b></p>
 <p>Hay una diferencia esencial entre HTML 4.0 y XHTML 1.0 – los dos estándares más recientes publicados por el W3C (World Wide Web Consortium). Tal y como está definido el XHTML, las páginas escritas en XHTML se pueden ver también en los navegadores que muestran las páginas HTML actuales. Las etiquetas y atributos de XHTML y HTML siguen siendo las mismas, pero la sintaxis del código XHTML es más estricta. </p>
 <p>Las diferencias más importantes entre XHTML y HTML son estas:</p>
